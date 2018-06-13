@@ -3,7 +3,7 @@
    
     <!-- Logo footer -->
     <div class="logo-footer">
-        <a href="<?php echo $root ?>"><img src="<?php echo $root ?>assets/bluedot-text.svg" alt="bluedot." class="logo-text"></a>
+        <a href="<?php echo $root ?>"><img src="<?php echo $root ?>assets/appablylogo.svg" alt="appably" class="logo"></a>
     </div>
     <!-- END Logo footer -->
     
@@ -13,15 +13,15 @@
     
     <!-- Social links -->
     <ul class="social">
-        <li><a href="#">Facebook</a></li>
-        <li><a href="#">Twitter</a></li>
-        <li><a href="#">Instagram</a></li>
+        <li><a href="https://www.facebook.com/appably">Facebook</a></li>
+        <li><a href="https://twitter.com/appablymobile">Twitter</a></li>
+        <li><a href="https://www.instagram.com/appablymobile/">Instagram</a></li>
     </ul>
     <!-- END Social links -->
     
     <!-- Copyright -->
     <div class="copyright">
-        <span>ykaydesign - Copyright 2017</span>
+        <span>Copyright 2018</span>
     </div>
     <!-- END Copyright -->
     

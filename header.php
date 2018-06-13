@@ -30,7 +30,7 @@
         <!-- Logo -->
         <div class="col-sm-6">
             <p class="site-title">
-                    <a href="<?php echo $root ?>"><img src="<?php echo $root ?>assets/bluedot-logo.svg" alt="Bluedot dot" class="logo"><img src="<?php echo $root ?>assets/bluedot-text.svg" alt="bluedot." class="logo-text"></a>
+                    <a href="<?php echo $root ?>"><img src="<?php echo $root ?>assets/appablylogo.svg" alt="appably" class="logo"></a>
             </p>
         </div>
         <!-- END Logo -->
@@ -68,23 +68,10 @@
                     <li><a href="<?php echo $root ?>#contact">Contact.</a></li>
                 </ul>
             </nav>
-            <div id="language-selector-mobile">
-                <ul>
-                    <li><a href="#">EN.</a></li>
-                    <li><a href="#">FR.</a></li>
-                </ul>
-            </div>
         </div>
     </div>
     <!-- END Mobile navigation bar -->
 
 </header>
 
-<!-- Language selector -->
-<div id="language-selector">
-    <ul>
-        <li><a href="#">EN.</a></li>
-        <li><a href="#">FR.</a></li>
-    </ul>
-</div>
 <!-- END Language selector -->
