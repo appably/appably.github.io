@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">    
     <meta name="viewport" content="width=device-width, user-scalable=0, initial-scale=1">
-    <title>bluedot. is a minimal portfolio</title>
-    <meta name="description" content="bluedot. is a minimal portfolio HTML available on Envato" />
-    <link rel="canonical" href="https://bluedot.digitalwork.ovh" />
+    <title>appably</title>
+    <meta name="description" content="appably" />
+    <link rel="canonical" href="https://appably.github.io/" />
     <meta property="og:locale" content="en_EN" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="bluedot." />
-    <meta property="og:description" content="bluedot. is a minimal portfolio HTML available on Envato" />
-    <meta property="og:url" content="https://bluedot.digitalwork.ovh" />
-    <meta property="og:site_name" content="bluedot." />
+    <meta property="og:title" content="appably" />
+    <meta property="og:description" content="appably" />
+    <meta property="og:url" content="https://appably.github.io/" />
+    <meta property="og:site_name" content="appably"
     <meta property="og:image" content="/assets/og-bluedot.jpg" />
     
     <?php include('header.php'); ?>
@@ -25,7 +25,7 @@
                 <h1 class="title">DIGITAL FREELANCER</h1>
                 <p class="description"><a href="<?php echo $root ?>#work">Project manager</a>, <a href="<?php echo $root ?>#work">web designer </a> and <a href="#">blogger</a>,<br />
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam consectetur ultrices felis.<br />
-                    Feel free to <a href="<?php echo $root ?>#contact">contact</a> me!</p>
+                    <a href="<?php echo $root ?>#contact">CONTACT US</a></p>
                 <div class="word-overlay">
                     <span class="two-words-overlay">DIGITAL<br />&nbsp;&nbsp;&nbsp;FREELANCER</span>
                 </div>
@@ -51,8 +51,8 @@
                 <div class="container">
                    <div class="row">
                         <div class="work-image-container col-lg-6">
-                            <img class="mockup-img" src="<?php echo $root ?>images/mockup-1.png" alt="Project 1" width="557" height="438">
-                            <img class="mockup-gif" src="<?php echo $root ?>images/mockup-gif-1.gif" alt="Gif example" width="374" height="235">
+                            <img class="mockup-img" src="<?php echo $root ?>images/mockup-3.png" alt="Project 3" width="557" height="438">
+                            <img class="mockup-gif mobile-gif" src="<?php echo $root ?>images/mockup-gif-3.gif" alt="Gif example on mobile mockup" width="136" height="242">
                         </div>
                         <div class="work-description-container col-lg-6">
                             <p class="work-category">Website</p>
@@ -88,8 +88,8 @@
                 <div class="container">
                    <div class="row">
                         <div class="work-image-container col-lg-6">
-                            <img class="mockup-img" src="<?php echo $root ?>images/mockup-2.png" alt="Project 2" width="557" height="438">
-                            <img class="mockup-gif tablet-gif" src="<?php echo $root ?>images/mockup-gif-2.gif" alt="Gif example on tablet mockup" width="374" height="235">
+                            <img class="mockup-img" src="<?php echo $root ?>images/mockup-3.png" alt="Project 3" width="557" height="438">
+                            <img class="mockup-gif mobile-gif" src="<?php echo $root ?>images/mockup-gif-3.gif" alt="Gif example on mobile mockup" width="136" height="242">
                         </div>
                         <div class="work-description-container col-lg-6">
                             <p class="work-category">Website</p>
@@ -161,8 +161,8 @@
                 <div class="container">
                        <div class="row">
                             <div class="work-image-container col-lg-6">
-                            <img class="mockup-img" src="<?php echo $root ?>images/mockup-1.png" alt="Project 1" width="557" height="438">
-                            <img class="mockup-gif" src="<?php echo $root ?>images/mockup-gif-1.gif" alt="Gif example" width="374" height="235">
+                            <img class="mockup-img" src="<?php echo $root ?>images/mockup-3.png" alt="Project 1" width="557" height="438">
+                            <img class="mockup-gif mobile-gif" src="<?php echo $root ?>images/mockup-gif-3.gif" alt="Gif example on mobile mockup" width="136" height="242">
                         </div>
                         <div class="work-description-container col-lg-6">
                             <p class="work-category">Corporate website</p>
